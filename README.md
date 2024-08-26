@@ -9,7 +9,7 @@ The `PolygonSequence` class has been enhanced to include an iterator for travers
 The `PolygonSequence` class now includes an internal iterator class, `SequenceIter`, that enables iteration over the polygons in the sequence.
 
 ### Link to Google Colab Notebook
-[Google Colab Session10_iterables notebook](https://colab.research.google.com/drive/1gZmzNq4OIhkjbFM5PtsqyD4owojl3YL2?usp=sharing)
+<a href="https://colab.research.google.com/drive/1gZmzNq4OIhkjbFM5PtsqyD4owojl3YL2?usp=sharing" target="_blank">Google Colab Session10_iterables notebook</a>
 
 ### Full Code with Iterator
 
